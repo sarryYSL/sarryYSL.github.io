@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_project2"]=self["webpackChunkmy_project2"]||[]).push([[443],{1343:function(s,t,a){a.r(t),a.d(t,{default:function(){return u}});var c=function(){var s=this;s._self._c;return s._m(0)},i=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"section"},[t("div",{staticClass:"card-img"}),t("div",{staticClass:"card-gao"}),t("div",{staticClass:"card-shadow"})])}],n={},r=n,e=a(1001),l=(0,e.Z)(r,c,i,!1,null,null,null),u=l.exports}}]);
+//# sourceMappingURL=about.17dac13c.js.map
